@@ -1,3 +1,4 @@
+```
 nvm install lts/fermium
 npm install -g npm
 npm install -g yarn
@@ -22,3 +23,4 @@ nvm install lts/jod
 npm install -g npm
 npm install -g yarn
 npm intall -g pm2
+```
