@@ -1,6 +1,6 @@
 ```
 nvm install lts/fermium
-npm install -g npm
+npm install -g npm@6
 npm install -g yarn
 npm install -g pm2@4
 
